@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'EB Garamond', serif;
+    font-weight: 400;
+    margin: 0;
+}
